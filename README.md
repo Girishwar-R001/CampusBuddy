@@ -6,6 +6,7 @@ CampusBuddy is a student-focused mobile application designed to make campus life
 
 ## Download
 
+
 Download the latest Android APK from the [Releases](../../releases) section.
 
 ## Version
